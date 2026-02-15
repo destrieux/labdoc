@@ -34,3 +34,5 @@ nav:
     - 'Ex vivo surface recon ': 'Exvivo/Reconstruction/reconstruction.md'
   - Photogrammetry:
     - 'From metashape to SKN3D': 'Photogrammetry/From_metashape_to_SKN3D.md'
+  - Procedures:
+    - 'Appel avec Moodle/Célene': 'Procedures/TP_moodle.md'
